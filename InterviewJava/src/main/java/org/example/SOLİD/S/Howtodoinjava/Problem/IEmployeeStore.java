@@ -1,4 +1,4 @@
-package org.example.SOLİD.S.Howtodoinjava.bad;
+package org.example.SOLİD.S.Howtodoinjava.Problem;
 
 public interface IEmployeeStore {
     public Employee getEmployeeById(Long Id);

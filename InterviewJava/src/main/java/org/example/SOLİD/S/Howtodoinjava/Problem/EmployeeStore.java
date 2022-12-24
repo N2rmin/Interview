@@ -1,4 +1,4 @@
-package org.example.SOLİD.S.Howtodoinjava.bad;
+package org.example.SOLİD.S.Howtodoinjava.Problem;
 
 public class EmployeeStore implements IEmployeeStore{
 
@@ -9,7 +9,7 @@ public class EmployeeStore implements IEmployeeStore{
 
     @Override
     public void addEmployee(Employee employee) {
-        
+
     }
 
     @Override
